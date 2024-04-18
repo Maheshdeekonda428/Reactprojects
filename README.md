@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Repository
 
-## About This Repository
+### About This Repository
 This repository is a collection of React projects showcasing my skills and interests in web development. Below you'll find brief descriptions of each project:
 
 ## Project 1: Sri Venkateshwara Enterprises Website Clone
